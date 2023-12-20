@@ -10,8 +10,8 @@ export const NavBar = () => {
           <div class="nav" id="navbarNavAltMarkup">
             <div class="navbar-nav">
               <a class="nav-link" href="#">Home</a>
-              <a class="nav-link" href="#">Botón 2</a>
-              <a class="nav-link" href="#">Botón 3</a>
+              <a class="nav-link" href="#">Artículos</a>
+              <a class="nav-link" href="#">Contacto</a>
             </div>
           </div>
         </div>
